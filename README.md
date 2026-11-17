@@ -1,2 +1,6 @@
-# LEM357-Parcial1-501
-LEM357 — Primera evaluación parcial (v1.0)
+# LEM357 — Primera evaluación parcial
+
+Examen en línea de **Dieseño elementos de maquina**. Se abre `index.html` desde GitHub Pages, se resuelve
+y se descarga un PDF que se entrega en Microsoft Teams.
+
+Sitio generado por Sinodal. No contiene la clave ni las soluciones.
